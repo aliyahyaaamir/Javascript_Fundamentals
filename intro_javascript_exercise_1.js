@@ -8,4 +8,4 @@ partner_name = "Marry";
 location = "San Francisco";
 job_title = "Developer";
 
-console.log("You will be a " + job_title + " in " + location + ", and married to " + partner_name + " with " + num_of_children + " kids.")
+console.log("You will be a " + job_title + " in " + location + ", and married to " + partner_name + " with " + num_of_children + " kids.");
